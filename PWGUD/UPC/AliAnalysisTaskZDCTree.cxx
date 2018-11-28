@@ -13,7 +13,7 @@
  * provided "as is" without express or implied warranty.                  *
  * 																		  *
  * Based on the class AliAnalysisTaskZDCTreeMaker by Chiara Oppedisano	  *																	  *
- * Created by Uliana Dmitrieva uliana.dmitrieva@cern.ch on 11/01/2018     *
+ * Created by Uliana Dmitrieva uliana.dmitrieva@cern.ch on 12/01/2018     *
  **************************************************************************/
 
 /////////////////////////////////////////////////////////////
